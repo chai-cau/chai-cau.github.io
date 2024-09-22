@@ -1,0 +1,14 @@
+- name: Hee-Seung Moon
+  name-korean: 문희승
+  info: Assistant Professor, CAU CSE
+  research-interest:
+    - computational interaction
+    - human behavior modeling
+  photo: hsmoon.jpg
+  homepage: https://hsmoon121.github.io
+  email: hsmoon [at] cau.ac.kr
+
+- name: Pu-Ang
+  name-korean: 푸앙
+  info: Student, CAU CSE
+  photo: puang.jpg
