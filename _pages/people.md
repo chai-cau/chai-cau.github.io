@@ -14,8 +14,11 @@ author_profile: false
     <img src="{{ site.url }}{{ site.baseurl }}/assets/img/people/{{ people.photo }}" style="max-width:100%; height:auto; object-fit:contain;">
   </div>
   <div class="person-info">
-    <h3 style="max-width:100%;">
-      {{ people.name }} ({{ people.name-korean }})
+    <h3 style="max-width:100%; margin-bottom: 0.2em">
+      {{ people.name }}
+    </h3>
+    <h3 style="max-width:100%; font-size: 1.25em">
+      {{ people.name-korean }}
     </h3>
     <p style="margin-bottom: 10px">{{ people.info }}</p>
     {% if people.research-interest %}

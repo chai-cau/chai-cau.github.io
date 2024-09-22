@@ -38,7 +38,7 @@ layout: default
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        <a style="color: inherit">news</a>
+        <a style="color: inherit; pointer-events: none;">news</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -46,7 +46,7 @@ layout: default
 
     <!-- Contact -->
     <h2>
-      <a style="color: inherit">contact</a>
+      <a style="color: inherit; pointer-events: none;">contact</a>
     </h2>
     {% for contact in site.contact %}
       <p style="margin-bottom: 5px">{{ contact }}</p>
