@@ -8,12 +8,12 @@ middle_name:
 last_name: lab
 email: hsmoon [at] cau.ac.kr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Official homepage of Computational Human-AI Interaction (CHAI) lab at Chung-Ang University (CAU).
+  Computational Human-AI Interaction (CHAI) lab at Chung-Ang University (CAU).
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: human-computer-interaction, computational-interaction, airtificial-intelligence
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: favicon2.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 affi: School of CSE, Chung-Ang University (CAU)
 affi_site: https://neweng.cau.ac.kr/
