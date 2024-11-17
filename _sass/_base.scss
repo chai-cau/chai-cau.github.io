@@ -664,6 +664,12 @@ footer.sticky-bottom {
 
 // People
 
+h4.category {
+  font-family: 'Montserrat';
+  color: var(--global-theme-color);
+  margin-bottom: 1.5rem;
+}
+
 .person-card {
   display: flex;
   flex-wrap: wrap;
@@ -672,8 +678,19 @@ footer.sticky-bottom {
 
 .person-photo {
   flex: 1 1 25%;
-  max-width: 25%;
+  max-width: 22%;
+  // max-height: 200px;
+  aspect-ratio: 9 / 11; /* Set your desired aspect ratio (e.g., 4:3) */
+  overflow: hidden; /* Ensure cropped content is hidden */
+  position: relative; /* Enables proper positioning for child elements */
   padding-right: 15px;
+}
+
+.person-photo img {
+  width: 100%; /* Ensure the image scales to the container width */
+  height: 100%; /* Ensure the image scales to the container height */
+  object-fit: cover; /* Ensures cropping while maintaining aspect ratio */
+  object-position: center; /* Center the cropped area */
 }
 
 .person-info {

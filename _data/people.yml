@@ -1,15 +1,53 @@
-- name: Hee-Seung Moon
-  name-korean: 문희승
-  info: Assistant Professor, CAU CSE
-  research-interest:
-    - computational interaction
-    - human behavior modeling
-  photo: hsmoon.jpg
-  homepage: https://hsmoon121.github.io
-  email: hsmoon [at] cau.ac.kr
+professor:
+  - name: Hee-Seung Moon
+    name-korean: 문희승
+    info: Assistant Professor, CAU CSE
+    research-interest:
+      - computational interaction
+      - human behavior modeling
+    photo: hsmoon.jpg
+    homepage: https://hsmoon121.github.io
+    email: hsmoon [at] cau.ac.kr
 
-- name: Pu-Ang
-  name-korean: 푸앙
-  info: Student, CAU CSE
-  photo: puang.jpg
-  homepage: https://www.instagram.com/puang.cau_official/
+undergrad:
+  - name: Sumin Kim
+    name-korean: 김수민
+    info: B.S. Student, CAU CSE
+    photo: smkim.jpg
+    email: crapy0001 [at] cau.ac.kr
+
+  - name: Yong Hee Jung
+    name-korean: 정용희
+    info: B.S. Student, CAU CSE
+    photo: yhjung.jpg
+    email: jbh3059 [at] gmail.com
+
+  - name: Yeojin Kim
+    name-korean: 김여진
+    info: B.S. Student, CAU CSE
+    photo: yjkim.jpg
+    email: yeojin7010 [at] gmail.com
+
+  - name: Seung Hoo Jee
+    name-korean: 지승후
+    info: B.S. Student, CAU CSE
+    photo: shjee.jpg
+    email: jeejohn0113 [at] cau.ac.kr
+
+  - name: Byeong-Yoon Hwang
+    name-korean: 황병윤
+    info: B.S. Student, CAU CSE
+    photo: byhwang.jpg
+    email: bill1031 [at] cau.ac.kr
+
+  - name: Chae-Lin Park
+    name-korean: 박채린
+    info: B.S. Student, CAU CSE
+    photo: clpark.jpg
+    email: chaelin20760 [at] gmail.com
+
+  # - name: Pu-Ang
+  #   name-korean: 푸앙
+  #   info: Student, CAU CSE
+  #   photo: puang.jpg
+  #   homepage: https://www.instagram.com/puang.cau_official/
