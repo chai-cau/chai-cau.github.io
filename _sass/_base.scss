@@ -679,8 +679,8 @@ h4.category {
 .person-photo {
   flex: 1 1 25%;
   max-width: 22%;
-  // max-height: 200px;
-  aspect-ratio: 9 / 11; /* Set your desired aspect ratio (e.g., 4:3) */
+  max-height: 230px;
+  // aspect-ratio: 9 / 11; /* Set your desired aspect ratio (e.g., 4:3) */
   overflow: hidden; /* Ensure cropped content is hidden */
   position: relative; /* Enables proper positioning for child elements */
   padding-right: 15px;
