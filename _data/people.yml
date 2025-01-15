@@ -46,6 +46,18 @@ undergrad:
     photo: bs_clpark.jpg
     email: chaelin20760 [at] gmail.com
 
+  - name: Won-Young Choi
+    name-korean: 최원용
+    info: B.S. Student, CAU CSE
+    photo: bs_wychoi.jpg
+    email: choioy6532 [at] naver.com
+
+  - name: Eun Hyo Park
+    name-korean: 박은효
+    info: B.S. Student, CAU CSE
+    photo: bs_ehpark.jpg
+    email: parkeh0724 [at] gmail.com
+
   # - name: Pu-Ang
   #   name-korean: 푸앙
   #   info: Student, CAU CSE
