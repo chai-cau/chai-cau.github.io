@@ -2,6 +2,10 @@
   url: https://dl.acm.org/conference/chi
   color: "#2b4cd4"
 
+"IJHCS":
+  url: https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies
+  color: "#2b4cd4"
+
 "IEEE RA-L":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369
   color: "#2b4cd4"
