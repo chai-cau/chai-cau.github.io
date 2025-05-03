@@ -17,6 +17,7 @@ The **Computational Human-AI Interaction (CHAI) lab** focuses on advancing AI te
 
 Our key research areas include: 
 * Simulation of user behavior as artificial agents, 
+* Cooperative AI agents,
 * Optimization and personaliztion of user interfaces and interactions, 
 * Inference of users' capabilities and motivations from observation, and 
 * Human motion-based 3D vision techniques.
@@ -31,6 +32,7 @@ Please find our [publications](/publications/) for more details.
 CHAI lab은 인간-컴퓨터 상호작용(HCI) 및 인공지능(AI) 분야에 기여할 수 있는 연구를 수행합니다(기존 연구 목록: [publications](/publications/)).
 우리의 주요 연구 분야는 다음과 같습니다:
 * 사람처럼 생각하고 움직이는 시뮬레이션 에이전트 학습
+* 인간과 협업하는 AI 에이전트 학습
 * 사용자 인터페이스(UI) 및 상호작용의 최적화 및 개인화 기술
 * 사용자의 관찰된 행동으로부터 그들의 신체 능력과 내적 특성 추론
 * 인간 움직임 기반의 3D 비전 기술
