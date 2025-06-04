@@ -36,3 +36,7 @@ CHAI lab은 인간-컴퓨터 상호작용(HCI) 및 인공지능(AI) 분야에 �
 * 사용자 인터페이스(UI) 및 상호작용의 최적화 및 개인화 기술
 * 사용자의 관찰된 행동으로부터 그들의 신체 능력과 내적 특성 추론
 * 인간 움직임 기반의 3D 비전 기술
+
+<div align="center">
+  <img src="/assets/img/people/group_250527.jpg" style="width:80%; margin:24px 0;" />
+<div>
