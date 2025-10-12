@@ -1,0 +1,67 @@
+.responsive {
+  width: 80%;
+  margin: 8px auto;
+  display: block;
+}
+@media (max-width: 600px) {
+  .responsive { width: 100%; }
+}
+
+.carousel {
+  position: relative;
+  width: 100%;
+}
+
+.viewport {
+  overflow: hidden;
+  width: 100%;
+}
+
+.track {
+  display: flex;
+  transition: transform 300ms ease;
+  will-change: transform;
+}
+
+.slide {
+  flex: 0 0 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.frame {
+  --ratio: 16/9;
+  position: relative;
+  width: 80%;
+  aspect-ratio: var(--ratio);
+  background: #fff;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.frame > img {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%;
+  object-fit: contain;
+}
+
+.nav {
+  position: absolute;
+  top: 50%; transform: translateY(-50%);
+  background: none; border: none; color: #222;
+  padding: 6px; cursor: pointer; z-index: 2;
+  text-shadow: 0 1px 2px rgba(255,255,255,.6);
+}
+.nav:focus { outline: 2px solid #fff; outline-offset: 2px; }
+.prev { left: 12px; }
+.next { right: 12px; }
+
+.dots {
+  display: flex; gap: 6px; justify-content: center; margin-top: 4px;
+}
+.dots button {
+  width: 6px; height: 6px; aspect-ratio: 1/1;
+  border-radius: 50%; border: none; padding: 0; cursor: pointer;
+  background: #bbb;
+}
+.dots button[aria-current="true"] { background: #666; }

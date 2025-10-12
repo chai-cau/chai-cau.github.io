@@ -38,18 +38,39 @@ CHAI lab은 인간-컴퓨터 상호작용(HCI) 및 인공지능(AI) 분야에 �
 * 인간 움직임 기반의 3D 비전 기술
 
 
-<style>
-  .responsive {
-    width: 80%;
-    margin: 24px 0;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  @media (max-width: 600px) {
-    .responsive {
-      width: 100%;
-    }
-  }
-</style>
-<img src="/assets/img/people/group_250527.jpg" class="responsive" />
+<link rel="stylesheet" href="{{ '/assets/css/carousel.css' | relative_url }}">
+
+<div class="carousel" id="lab-carousel" aria-label="CHAI lab photos">
+  <button class="nav prev" aria-label="Previous" title="Previous">
+    <!-- 미니멀 화살표 (SVG) -->
+    <svg width="28" height="28" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </button>
+
+  <div class="viewport">
+    <div class="track">
+      <div class="slide">
+        <div class="frame responsive">
+          <img src="/assets/img/people/group_uist25_1.jpg" loading="lazy">
+        </div>
+      </div>
+      <div class="slide">
+        <div class="frame responsive">
+          <img src="/assets/img/people/group_uist25_2.jpg" loading="lazy">
+        </div>
+      </div>
+      <div class="slide">
+        <div class="frame responsive">
+          <img src="/assets/img/people/group_250527.jpg" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <button class="nav next" aria-label="Next" title="Next">
+    <svg width="28" height="28" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </button>
+
+  <div class="dots" aria-label="Slide selection" role="tablist"></div>
+</div>
+
+<script src="{{ '/assets/js/carousel.js' | relative_url }}" defer></script>
