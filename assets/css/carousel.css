@@ -30,13 +30,12 @@
 }
 
 .frame {
-  --ratio: 16/9;
+  --ratio: 5/3;
   position: relative;
   width: 80%;
   aspect-ratio: var(--ratio);
   background: #fff;
   overflow: hidden;
-  border-radius: 10px;
 }
 
 .frame > img {

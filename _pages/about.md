@@ -42,7 +42,6 @@ CHAI lab은 인간-컴퓨터 상호작용(HCI) 및 인공지능(AI) 분야에 �
 
 <div class="carousel" id="lab-carousel" aria-label="CHAI lab photos">
   <button class="nav prev" aria-label="Previous" title="Previous">
-    <!-- 미니멀 화살표 (SVG) -->
     <svg width="28" height="28" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
   </button>
 
