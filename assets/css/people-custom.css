@@ -25,6 +25,7 @@
   grid-template-columns: repeat(2, minmax(0, 1fr)); /* mobile: 2 columns */
   gap: 18px;
   align-items: stretch;
+  margin-bottom: 30px;
 }
 
 @media (min-width: 768px){
@@ -41,6 +42,7 @@
   justify-content: flex-start;
   padding: 5px;
   text-align: center;
+  margin-bottom: 10px;
 }
 
 .people-grid .person-card.compact.vertical .person-photo{
