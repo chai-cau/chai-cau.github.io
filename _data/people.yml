@@ -15,55 +15,74 @@ grad:
     name-korean: 정용희
     info: MS Student (CSE)
     degree: From Mar. 2026
-    photo: bs_yhjung.jpg
+    photo: ms_yhjung.jpg
     email: jbh3059 [at] gmail.com
 
   - name: Yeojin Kim
     name-korean: 김여진
     info: MS Student (CSE)
     degree: From Mar. 2026
-    photo: bs_yjkim.jpg
+    photo: ms_yjkim.jpg
     email: yeojin7010 [at] gmail.com
 
   - name: Sumin Kim
     name-korean: 김수민
     info: BS-MS Integrated (CSE)
     degree: From Mar. 2026
-    photo: bs_smkim.jpg
+    photo: ms_smkim.jpg
     email: crapy0001 [at] cau.ac.kr
 
   - name: Won-Young Choi
     name-korean: 최원용
     info: BS-MS Integrated (CSE)
     degree: From Mar. 2026
-    photo: bs_wychoi.jpg
+    photo: ms_wychoi.jpg
     email: choioy6532 [at] naver.com
 
   - name: Eun Hyo Park
     name-korean: 박은효
     info: BS-MS Integrated (CSE)
     degree: From Mar. 2026
-    photo: bs_ehpark.jpg
+    photo: ms_ehpark.jpg
     email: parkeh0724 [at] gmail.com
+
+  - name: Seung-Un Nam
+    name-korean: 남승운
+    info: MS Student (CSE)
+    degree: From Sep. 2026
+    photo: ms_sunam.jpg
+    email: un7476 [at] naver.com
 
 undergrad:
   - name: Seung Hoo Jee
     name-korean: 지승후
-    info: BS Student (CAU CSE)
+    info: BS Student (CSE)
     photo: bs_shjee.jpg
     email: jeejohn0113 [at] cau.ac.kr
 
-  - name: Seung-Un Nam
-    name-korean: 남승운
-    info: BS Student (CAU CSE)
-    photo: bs_sunam.jpg
-    email: un7476 [at] naver.com
-
   - name: Serin Jung
     name-korean: 정세린
-    info: BS Student (CAU CSE)
+    info: BS Student (CSE)
     photo: bs_srjung.jpg
     email: salad1223 [at] naver.com
+
+  - name: Jaehun Choi
+    name-korean: 최재훈
+    info: BS Student (CSE)
+    photo: bs_jhchoi.jpeg
+    email: chlwogns55 [at] cau.ac.kr
+
+  - name: Yoonjae Kim
+    name-korean: 김윤재
+    info: BS Student (CSE)
+    photo: bs_yjkim.jpeg
+    email: retolss [at] cau.ac.kr
+
+  - name: Ji Soo Lee
+    name-korean: 이지수
+    info: BS Student (CSE)
+    photo: bs_jslee.jpeg
+    email: leejisoo0324 [at] cau.ac.kr
 
   # - name: Pu-Ang
   #   name-korean: 푸앙
@@ -74,7 +93,10 @@ undergrad:
 alumni:
   - name: Chae-Lin Park
     name-korean: 박채린
-    info: B.S. Student (2025)
+    info: BS Student (2025)
+  - name: Byeong-Yoon Hwang
+    name-korean: 황병윤
+    info: BS Student (2025)
     # photo: bs_clpark.jpg
     # email: chaelin20760 [at] gmail.com
 
