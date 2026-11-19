@@ -32,7 +32,7 @@ grad:
     photo: ms_smkim.jpg
     email: crapy0001 [at] cau.ac.kr
 
-  - name: Won-Young Choi
+  - name: WonYoung Choi
     name-korean: 최원용
     info: BS-MS Integrated (CSE)
     degree: From Mar. 2026
@@ -66,24 +66,6 @@ undergrad:
     photo: bs_srjung.jpg
     email: salad1223 [at] naver.com
 
-  - name: Jaehun Choi
-    name-korean: 최재훈
-    info: BS Student (CSE)
-    photo: bs_jhchoi.jpeg
-    email: chlwogns55 [at] cau.ac.kr
-
-  - name: Yoonjae Kim
-    name-korean: 김윤재
-    info: BS Student (CSE)
-    photo: bs_yjkim.jpeg
-    email: retolss [at] cau.ac.kr
-
-  - name: Ji Soo Lee
-    name-korean: 이지수
-    info: BS Student (CSE)
-    photo: bs_jslee.jpeg
-    email: leejisoo0324 [at] cau.ac.kr
-
   # - name: Pu-Ang
   #   name-korean: 푸앙
   #   info: Student, CAU CSE
@@ -91,6 +73,21 @@ undergrad:
   #   homepage: https://www.instagram.com/puang.cau_official/
 
 alumni:
+  - name: Jaehun Choi
+    name-korean: 최재훈
+    info: BS Student (2026)
+    # photo: bs_jhchoi.jpeg
+    # email: chlwogns55 [at] cau.ac.kr
+  - name: Yoonjae Kim
+    name-korean: 김윤재
+    info: BS Student (2026)
+    # photo: bs_yjkim.jpeg
+    # email: retolss [at] cau.ac.kr
+  - name: Ji Soo Lee
+    name-korean: 이지수
+    info: BS Student (2026)
+    # photo: bs_jslee.jpeg
+    # email: leejisoo0324 [at] cau.ac.kr
   - name: Chae-Lin Park
     name-korean: 박채린
     info: BS Student (2025)
